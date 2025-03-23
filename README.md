@@ -71,7 +71,7 @@ Contributions are welcome! To contribute:
 ## V. Screenshot
 
 <div align=center>
-   <img src="screenshots/preview.gif" width="200">
+   <img src="screenshots/preview.gif" width="300">
 </div>
 
 ## 📜 License
