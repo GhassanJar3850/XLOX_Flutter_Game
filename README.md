@@ -70,7 +70,9 @@ Contributions are welcome! To contribute:
 
 ## V. Screenshot
 
-![Preview](screenshots/preview.gif)
+<div align=center>
+   <img src="screenshots/preview.gif" width="200">
+</div>
 
 ## 📜 License
 
