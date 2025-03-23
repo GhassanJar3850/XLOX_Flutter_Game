@@ -2,7 +2,7 @@
 
 **XLOX** is an engaging puzzle game developed using Flutter, where the objective is to eliminate all cubes from the board. Players click on a cube to make it disappear, causing new cubes to appear in the four adjacent squares. If these new cubes collide with walls or other cubes, they also vanish. The game features a built-in solver utilizing various search algorithms, complemented by SFX (the package used in this project is now deprecated) and animations for an immersive experience.
 
-intelligent search algorithms subject project in university in 2024.
+intelligent search algorithms subject university project 2024.
 
 ## I. Features
 
@@ -19,7 +19,7 @@ intelligent search algorithms subject project in university in 2024.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/xlox_game.git
+   git clone https://github.com/GhassanJar3850/XLOX_Flutter_Game.git
    ```
    
 
@@ -68,7 +68,11 @@ Contributions are welcome! To contribute:
 
 6. **Submit a Pull Request**: Open a pull request to the main repository, describing your changes and their purpose.
 
-## V. License
+## V. Screenshot
+
+![Preview](screenshots/preview.gif)
+
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
